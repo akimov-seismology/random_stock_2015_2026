@@ -1,0 +1,16 @@
+Copyright (c) 2026 Andrei Akimov.
+
+License: MIT (see LICENSE for the full license text).
+SPDX-License-Identifier: MIT
+
+Development disclosure: Developed by Andrei Akimov with assistance from OpenAI ChatGPT,
+including assistance with writing code, documentation, and tests.
+
+This MIT license applies to the original Python source files and documentation
+in this Monte Carlo stock-market research package. You may use, copy, modify,
+distribute, sublicense, and sell copies, provided the copyright notice and
+license notice are preserved as described in LICENSE.
+
+Third-party software and libraries, independently owned market data, S&P 500
+membership information, and trademarks are not covered by this license and
+remain subject to their own terms.
